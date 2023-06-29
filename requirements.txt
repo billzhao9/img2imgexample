@@ -1,0 +1,23 @@
+transformers
+Pillow
+accelerate
+scipy
+safetensors
+xformers
+dropbox
+tqdm
+opencv-contrib-python
+controlnet_aux
+sentencepiece
+omegaconf
+protobuf
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.0.1+cu118
+torchvision
+torchaudio
+tomesd
+git+https://github.com/huggingface/diffusers.git
+triton
+numpy
+mediapipe
+huggingface_hub
